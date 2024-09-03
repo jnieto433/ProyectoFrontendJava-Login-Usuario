@@ -12,12 +12,3 @@ A continuación se presentan algunas capturas.
     <p>Login de usuarios.</p>
 </div>
 
-<div align='center'>
-    <img  src='https://i.imgur.com/C323HG1.png'>
-    <p>Inicio de aplicación.</p>
-</div>
-
-<div align='center'>
-    <img  src='https://i.imgur.com/iLAnqNE.png'>
-    <p>Listado de productos.</p>
-</div>
