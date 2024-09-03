@@ -5,8 +5,6 @@ Este Proyecto Frontend es el resultado que da seguimiento al curso Interfaz Grá
 
 ## Demostración
 
-Usted puede ver la aplicación corriendo a través de [Este Link de Youtube](https://youtu.be/_MbVCOJ1BUE). 
-
 A continuación se presentan algunas capturas.
 
 <div align='center'>
